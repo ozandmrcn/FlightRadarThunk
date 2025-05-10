@@ -50,7 +50,8 @@ VITE_API_KEY=your-api-key-here
 npm run dev
 ```
 
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" /> Make sure you are using a valid API key from **RapidAPI's Flight Radar API**
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" alt="Warning" width="25" height="25" /> You must register on [RapidAPI](https://rapidapi.com/hub) and subscribe to the **Flight Radar API** to obtain a valid API key.  
+> The key must be stored in a `.env` file as: `VITE_API_KEY=your-api-key-here`
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact  
 For any questions or feedback, feel free to contact:  
