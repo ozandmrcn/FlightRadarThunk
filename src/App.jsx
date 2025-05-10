@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Header from "./components/header";
-import List from "./pages/List";
-import Map from "./pages/Map";
+import List from "./pages/list";
+import Map from "./pages/map";
 import { useDispatch } from "react-redux";
 import { useEffect } from "react";
 import { getFlights } from "./redux/actions";
